@@ -1,4 +1,2 @@
 # Python-Project
-Using python to look at some data
-This is my first real attempt at using git  hub while creating a project.
-Best wishes to myself.
+Using python to look at some data, and showing off some of the skills I can do.
